@@ -33,7 +33,7 @@ GOOGLE_API_KEY=your_api_key_here
 1. Start the application:
 streamlit run vision.py
 
-2. Open your web browser and navigate to the provided local URL (typically http://localhost:8501)
+2. Open your browser and navigate to the provided local URL (typically http://localhost:8501)
 
 3. Create an account or log in to access the beauty advisor
 
