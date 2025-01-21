@@ -39,7 +39,7 @@ streamlit run vision.py
 
 4. Upload an image and describe your desired look to receive personalized recommendations
 
-5. Use the chat interface to ask specific questions about makeup and styling
+5. Use chat interface to ask specific questions about makeup and styling
 
 ## Project Structure
 
